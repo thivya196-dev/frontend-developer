@@ -1,0 +1,32 @@
+CSS Box Model and Selectors
+1. CSS Box Model
+CONTENT
+This is the content area.
+
+Margin: Space outside the border.
+
+Border: Outline surrounding the padding and content.
+
+Padding: Space between content and border.
+
+Content: Actual text or element inside the box.
+
+2. Class Selector
+This paragraph uses a class selector (.highlight).
+
+3. ID Selector
+This paragraph uses an ID selector (#special).
+
+4. Attribute Selector
+Name: 
+Enter your name
+The input element is styled using input[type="text"].
+
+5. Child Selector
+This is a direct child paragraph.
+
+This paragraph is inside a section, not a direct child.
+
+6. Pseudo-class Selector
+Hover over me!
+The button changes color when you hover over i
